@@ -1,0 +1,8 @@
+nav form {
+	margin:auto;
+}
+
+nav form .form-group {
+	margin:0;
+	padding: 0 5px;
+}
